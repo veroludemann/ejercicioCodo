@@ -1,0 +1,37 @@
+<div class="container-cards">
+            <div class="text-card">
+                <h2>Encontrá un curso a tu medida</h2>
+                <p>Berlitz es un centro de idiomas que ofrece una amplia variedad de cursos para adultos, niños, adolescentes, empresas y más. 
+                <br>Elegí entre las opciones que a continuación te presentamos para encontrar tu curso ideal.</p>
+            </div>
+            <div class="container4-grid">    
+                <div class="card">
+                    <img src="../imagenes/img7.jpg" alt="">
+                    <div class="container">
+                        <h3>Cursos de Idiomas para adultos</h3>
+                        <button>Ver cursos</button>
+                    </div>
+                </div>
+                <div class="card">
+                    <img src="../imagenes/img2.jpg" alt="">
+                    <div class="container">
+                        <h3>Cursos de Idiomas para niños y adolescentes</h3>
+                        <button>Ver cursos</button>
+                    </div>
+                </div>
+                <div class="card">
+                    <img src="../imagenes/img14.jpg" alt="">
+                    <div class="container">
+                        <h3>Consultoria cultural y capacitación de idiomas para empresas</h3>
+                        <button>Ver cursos</button>
+                    </div>
+                </div>
+                <div class="card">
+                    <img src="../imagenes/img15.jpg" alt="">
+                    <div class="container">
+                        <h3>Estudios en el extranjero</h3>
+                        <button>Ver cursos</button>
+                    </div>
+                </div>
+            </div>
+        </div>
